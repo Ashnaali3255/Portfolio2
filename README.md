@@ -29,7 +29,7 @@ HTML,CSS,JS
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://ashnaali3255.github.io/My-Portfolio/)
+- [Live Demo](https://ashnaali3255.github.io/Portfolio2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
