@@ -52,7 +52,7 @@ In order to run this project you need:
 2. Setup
 Clone this repository to your desired folder:
 
-git clone https://github.com/Ashnaali3255/My-Portfolio.git
+git clone https://github.com/Ashnaali3255/Portfolio2.git
 
 3. Deployment
  
